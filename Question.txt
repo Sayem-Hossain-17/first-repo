@@ -1,0 +1,5 @@
+1. Consider the graph problem that finds all paths from the source to the destination. You need to modify the graph program to realize the following.
+
+Suppose each node requires a visa to enter into it. You are currently staying at the starting node. Whenever you go to an intermediate or the destination node, you need a visa to enter into the node. Whenever you start from the source node, you randomly get some visas. With the visas you have, you need to find all possible paths from the source to the destination node.
+
+2. Consider the graph problem that finds all paths from the source to the destination. After representing a graph, you need to find all triangles from the graph. If three nodes 1, 2, and 3 make a triangle, there is a triangular path among these three.
